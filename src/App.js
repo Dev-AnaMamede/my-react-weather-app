@@ -5,16 +5,18 @@ import "./App.css";
 export default function WeatherApp() {
   return (
     <div className="App">
-      <h1>Weather App</h1>
-      <footer>
-        This project was coded by Matt Delac and is{" "}
-        <a
-          href="https://github.com/Dev-AnaMamede/my-react-weather-app"
-          target="_blank"
-        >
-          open sourced on GitHub
-        </a>
-      </footer>
+      <div className="container">
+        <h1>Weather App</h1>
+        <footer>
+          This project was coded by Matt Delac and is{" "}
+          <a
+            href="https://github.com/Dev-AnaMamede/my-react-weather-app"
+            target="_blank"
+          >
+            open sourced on GitHub
+          </a>
+        </footer>
+      </div>
     </div>
   );
 }
