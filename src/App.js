@@ -10,11 +10,13 @@ export default function WeatherApp() {
         <footer>
           This project is{" "}
           <a
-            href="https://github.com/Dev-AnaMamede/my-react-weather-app"
+            href="https://github.com/AnaMamede-dev/my-new-react-repo"
             target="_blank"
+            rel="noopener noreferrer"
           >
-            open sourced on GitHub
-          </a>
+            open sourced on GitHub.
+          </a>{" "}
+          For learning purposes only.
         </footer>
       </div>
     </div>
