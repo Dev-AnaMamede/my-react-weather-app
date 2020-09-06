@@ -6,9 +6,9 @@ export default function WeatherApp() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Berlin" />
+        <Weather defaultCity="Brisbane" />
         <footer>
-          This project was coded by Matt Delac and is{" "}
+          This project is{" "}
           <a
             href="https://github.com/Dev-AnaMamede/my-react-weather-app"
             target="_blank"
