@@ -10,7 +10,7 @@ export default function WeatherApp() {
         <footer>
           This project is{" "}
           <a
-            href="https://github.com/AnaMamede-dev/my-react-final-project"
+            href="https://github.com/Dev-AnaMamede/my-react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
